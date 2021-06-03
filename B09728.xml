@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the observations made by W. P. upon the trade of Irish cattel</title>
+            <author>Petty, William, Sir, 1623-1687.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09728</idno><idno type="EEBO-CITATION">62369596</idno>
+  <idno type="VID">188086</idno>
+  <idno type="EEBO-PROQUEST">2240862233</idno>
+  
+            <idno type="STC">Wing P1937A</idno>
+            <idno type="STC">ESTC R181751</idno>
+            <idno type="OCLC">62369596</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188086)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2854:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the observations made by W. P. upon the trade of Irish cattel</title>
+                  <author>Petty, William, Sir, 1623-1687.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Petty, William, --  Sir, 1623-1687.</term>
+               <term type="topical_term">Cattle --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Cattle --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188086:1"/>
+            <head>Some of the OBSERVATIONS made by <hi>W. P.</hi> Upon the Trade of Irish Cattel.</head>
+            <p n="1">1. THat the value of the Oxen and Sheep (their Hides, Tallow, and Skins deducted) which were ever Imported in one year out of <hi>Ireland</hi> into <hi>England,</hi> were never worth above Eighty thousand pounds, nor above the hun<g ref="char:EOLhyphen"/>dredth part of the Rents of Land in <hi>England,</hi> nor above one hundred part of the Butchers meat yearly spent in <hi>England.</hi>
+            </p>
+            <p n="2">2. That <hi>Ireland</hi> never yet did, nor could spare as many Sheep and Oxen alive or dead, as would maintain a fifth part more people than now it hath; that is to say, than would maintain about Thirteen hundred thousand people; of which number, there are about Eleven hundred thousand now in <hi>Ireland.</hi>
+            </p>
+            <p n="3">3. Whereas <hi>Ireland</hi> contains three quarters as much Land as <hi>England</hi> and <hi>Wales,</hi> and there be above Six millions of people in <hi>England;</hi> it follows, That if <hi>Ireland</hi> can furnish Flesh-meat but unto Thirteen hundred thousand, that <hi>England</hi> cannot with equal plenty furnish Meat unto the said Six millions.</p>
+            <p n="4">4. The Owners of Breeding-lands have since the Prohibition not gotten above Ten shillings <hi>per</hi> head more for their Cattel than before it; which the Owners of the Feeding-lands have paid them, and lost. Moreover, the Mariners of <hi>England</hi> have lost the getting of Nine shillings and Six pence <hi>per</hi> head for Freight and Pri<g ref="char:EOLhyphen"/>mage; and the People of <hi>England</hi> have lost Four Shillings and Six pence <hi>per</hi> head more for Driving and Grazing. The King hath lost Three Shillings and Six pence <hi>per</hi> head for Custom, on both sides, besides Officers Fees. And the Traders in Hides and Tallow have lost what they might have gained out of Fifteen shillings <hi>per</hi> head: And the Merchants and Artisans of <hi>England</hi> have lost yearly what they might have gained by One hundred and forty thousand pounds worth of <hi>English</hi> Manufactures. The Wool-growers of <hi>England</hi> have lost as much as their Wool is fallen by reason of the extraordinary Sheep-walks now in <hi>Ireland.</hi> The Land<g ref="char:EOLhyphen"/>lords of <hi>Ireland</hi> resident in <hi>England</hi> have lost Five <hi>per Cent.</hi> extraordinary for Exchange of Money. Lastly, the bulk of the People of <hi>England</hi> have lost one Half-peny for every pound of Flesh-meat they have spent; amounting for all <hi>England</hi> unto about Two millions <hi>per an.</hi> of which great Sum, the Owners even of Breeding-lands have paid three times more in the inhansment of Wages and Ma<g ref="char:EOLhyphen"/>nufactures, than they got by the raised Rate of their Cattel above mentioned.</p>
+            <p n="5">5. Since this Prohibition, the Papists in <hi>Ireland</hi> (who are Eight hundred thou<g ref="char:EOLhyphen"/>sand in number) have gotten a Dispensation from <hi>Rome</hi> to eat Flesh five days in the week, whereas formerly they did but four. In which extraordinary day of Indulgence, there is as much Meat spent by the Papists in a year, as ever was brought into <hi>England.</hi>
+            </p>
+            <p n="6">6. Although a Beast worth Forty shillings might be brought out of <hi>Ireland,</hi> even to <hi>London,</hi> for about Twenty shillings; yet the Land of <hi>England,</hi> generally taken, is worth five times as much, Acre for Acre, as the Lands of <hi>Ireland</hi> gene<g ref="char:EOLhyphen"/>rally taken. Neither can the Lands of <hi>Ireland</hi> rise up to a Level of value with those in <hi>England,</hi> without the mission of some Millions of people more into <hi>Ireland</hi> than now are there, nor without the expence of more Millions in Buildings and Improvements than all <hi>Ireland</hi> is now worth: Nor can the Lands of <hi>England</hi> fall down to a Level with those in <hi>Ireland,</hi> without vast Depopulations and Deva<g ref="char:EOLhyphen"/>stations preceding.</p>
+            <p>Every of the before mentioned particulars can be readily proved, from grounds of sence known, granted, or authentique.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
